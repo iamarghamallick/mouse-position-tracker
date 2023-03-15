@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mouse-position-tracker/static/css/main.1a090d87.css",
+    "main.js": "/mouse-position-tracker/static/js/main.e6c687b0.js",
+    "static/js/787.c13cef3f.chunk.js": "/mouse-position-tracker/static/js/787.c13cef3f.chunk.js",
+    "index.html": "/mouse-position-tracker/index.html",
+    "main.1a090d87.css.map": "/mouse-position-tracker/static/css/main.1a090d87.css.map",
+    "main.e6c687b0.js.map": "/mouse-position-tracker/static/js/main.e6c687b0.js.map",
+    "787.c13cef3f.chunk.js.map": "/mouse-position-tracker/static/js/787.c13cef3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a090d87.css",
+    "static/js/main.e6c687b0.js"
+  ]
+}
